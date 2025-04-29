@@ -1,0 +1,5 @@
+res://scenes/ui/main_menu.tscn
+res://main_theme.tres
+res://characters/warrior/warrior.tres
+res://battles/chapter1/tier_2_toxic_ghost.tres
+res://battles/chapter1/battle_stats_pool1.tres
